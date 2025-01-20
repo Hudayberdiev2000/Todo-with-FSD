@@ -1,4 +1,4 @@
-# My React App
+# Todo with Feature Sliced Design
 
 This is a React project structured around **Feature-Sliced Design (FSD)**. It utilizes modern tools and libraries to build scalable, maintainable, and high-performance applications.
 
